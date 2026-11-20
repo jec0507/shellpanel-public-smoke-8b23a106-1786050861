@@ -1,3 +1,4 @@
 CRUD TEST
-stage=created
+stage=modified
 source=ChatGPT general chat
+verified=updated content
