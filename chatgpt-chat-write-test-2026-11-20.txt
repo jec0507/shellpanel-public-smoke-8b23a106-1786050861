@@ -1,0 +1,4 @@
+ChatGPT 일반 채팅 GitHub 파일 쓰기 테스트
+날짜: 2026-11-20 (KST)
+ChatGPT GitHub 커넥터로 생성되었습니다.
+이 테스트는 GitHub에만 저장되며 로컬 PC D:\O 폴더에는 자동 적용되지 않습니다.
