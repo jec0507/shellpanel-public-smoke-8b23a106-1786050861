@@ -1,4 +1,0 @@
-CRUD TEST
-stage=modified
-source=ChatGPT general chat
-verified=updated content
